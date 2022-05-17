@@ -1,0 +1,6 @@
+Anotações relevantes:
+
+Link para Download do GIT: https://git-scm.com/downloads
+
+- O Git Bash é um terminar extendido usado para criar, alterar, atualizar os seus arquivos, de forma que posteriormente você consiga
+"push" (empurrar) para o seu repositório remoto, que no caso será o GIT HUB.
